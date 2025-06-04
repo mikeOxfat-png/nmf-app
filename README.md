@@ -186,3 +186,6 @@ A big thank you to [Christopher Gwilliams](https://github.com/encima) and to th
 ### ©️ Open source - licence
 
 Repository and contributions are under [GNU General Public License v3.0](https://github.com/NotMyFaultEarth/nmf-app/blob/main/LICENSE)
+
+----
+just adding  this to verify if the submodules commits reflect
